@@ -1,0 +1,14 @@
+body{
+  background-image:url(1.jpg);
+    background-color:#EAF2F8  ;
+        
+margin: 0;
+padding: 0;
+}
+
+#text{
+    text-align: center;
+    background-color: transparent;
+    background: transparent;
+    color: aliceblue
+}
